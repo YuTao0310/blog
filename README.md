@@ -49,5 +49,3 @@ SpringBoot(IoC + AOP) + MyBatisPlus + JWT + SpringSecurity + Redis + Swagger2 + 
 运行taoyu-blog对应的java项目
 **博客后台系统对应代码**
 运行taoyu-admin对应的java项目
-# 参考
-项目参考B站的三更草堂的博客项目：https://space.bilibili.com/663528522?spm_id_from=333.337.0.0
