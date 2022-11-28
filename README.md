@@ -35,6 +35,7 @@ SpringBoot(IoC + AOP) + MyBatisPlus + JWT + SpringSecurity + Redis + Swagger2 + 
 `cd code/front/blog-vue`
 
 `npm run dev`
+
 **博客后台系统运行**
 
 `cd code/front/vue-admin`
@@ -46,6 +47,9 @@ SpringBoot(IoC + AOP) + MyBatisPlus + JWT + SpringSecurity + Redis + Swagger2 + 
 `mvn package -Dmaven.test.skip = true`
 
 **博客前台系统对应代码**
+
 运行taoyu-blog对应的java项目
+
 **博客后台系统对应代码**
+
 运行taoyu-admin对应的java项目
